@@ -1,15 +1,15 @@
 {
 	"name": "oceancodex/wpsp-config",
-	"version": "8.2.0",
+	"version": "8.1.0",
 	"description": "WordPress Starter Plugin - Config",
 	"keywords": [
 	],
 	"license": "MIT",
 	"require": {
-		"php": "^8.2",
+		"php": "^8.1",
 		"dflydev/dot-access-data": "^v3.0.3",
 		"hassankhan/config": "^3.1.0",
-		"oceancodex/wpsp-finder": "^8.2.0"
+		"oceancodex/wpsp-finder": "^8.1.0"
 	},
 	"config": {
 		"sort-packages": true
